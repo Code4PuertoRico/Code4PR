@@ -1,6 +1,6 @@
 # La Huella Digital de los Municipios en Puerto Rico: un analisis mal hecho
 
-78 municipios. Estos son los gobiernos que mas afectan el dia a dia de la ciudadania. Son la primera parada para ayudas durante desastres, emergencias de salud y festividades locales. Los servicios que ofrecen los municipios son vitales, desde el recogido de escrombros, hasta el manejo de seguridad.
+78 municipios. Estos son los gobiernos que mas afectan el dia a dia a la ciudadania. Son la primera parada para ayudas durante desastres, emergencias de salud y festividades locales. Los servicios que ofrecen los municipios son vitales, desde el recogido de escrombros, hasta el manejo de seguridad.
 
 Con tanta importancia que estas instituciones tienen como es que se comunican con los ciudadanos?
 
@@ -16,7 +16,7 @@ El internet es una plataforma donde cualquiera puede comprar un dominio que este
 
 Con todo lo que ha pasado en los pasados años en Puerto Rico, en Code4PR queriamos ver cual era la huella digital de los municipios. Queriamos ver cuan facil se nos podia hacer encontrar información relevante de un municipio que pudiese asistir a sus constituyentes.
 
-Se nos ocurrio empezar por el protal de [pr.gov](https://pr.gov). Decidimos esto por varias razones:
+Se nos ocurrio empezar por el portal de [pr.gov](https://pr.gov). Decidimos esto por varias razones:
 
 1. Es el portal oficial del gobierno de Puerto Rico.
 2. Tiene un [directorio de Municipios de Puerto Rico](https://www.pr.gov/Directorios/Pages/DirectoriodeMunicipios.aspx).
@@ -49,20 +49,20 @@ En el documento adjunto se pueden contar alrededor de 29 dominios que no aparece
 
 ¿Que es peor que no tener data? Tener data erronea.
 
-Existen entradas en [pr.gov](https://www.pr.gov/Directorios/Pages/DirectoriodeMunicipios.aspx) esta erronea. Esto puede deberse a varios factores, pero hay uno bastante evidente; el dominio del municipio se dejo caducar.
+Existen entradas en [pr.gov](https://www.pr.gov/Directorios/Pages/DirectoriodeMunicipios.aspx) están erronea. Esto puede deberse a varios factores, pero hay uno bastante evidente; el dominio del municipio se dejo caducar.
 
 Cuando un dominio caduca, osea que el dueño no paga para renovarlo, el mismo cae en varias etapas de renovación, venta, subasta y luego disponibilidad publica. Al final del dia no le vemos problema dejar caducar un dominio que el municipio no va a utilizar o no tiene el presupuesto para mantener.
 
 El problema aparece cuando el municipio deja caducar un dominio pero mantiene mencion del mismo en paginas oficiales. Esto causa una gran confusion a los ciudadanos y les resta confianza en las propiedades digitales del municipio.
 
-Existe un problema mas grabe que solo perder un dominio o la confianza de los ciudadanos. Una vez el dominio se pueda comprar por cualquiera cabe la posibilidad que se pueda usar para acciones nefastas. Esto combinado con el municipio no removiendo el dominio de paginas oficiales puede causar situaciones de disgustos, en el mejor de los casos, o peligro genuino en el peor de ellos.
+Existe un problema mas grave que solo perder un dominio o la confianza de los ciudadanos. Una vez el dominio se pueda comprar por cualquiera cabe la posibilidad que se pueda usar para acciones nefastas. Esto combinado con el municipio no removiendo el dominio de paginas oficiales puede causar situaciones de disgustos, en el mejor de los casos, o peligro genuino en el peor de ellos.
 
 #### Solucion sugerida
 
 En este caso realmente existen tres opciones:
 
 1. No dejar caducar los dominios que este usando el municipio
-2. Que el municipio se acegure de eliminar el uso y mencion del dominio expirado en propiedades digitales.
+2. Que el municipio se asegure de eliminar el uso y mencion del dominio expirado en propiedades digitales.
 3. Utilizar un dominio que no caduque y que este manejado por alguna rama del gobierno de Puerto Rico.
   - Un buen ejemplo de esto lo es [https://barranquitas.pr.gov/](https://barranquitas.pr.gov/).
 
