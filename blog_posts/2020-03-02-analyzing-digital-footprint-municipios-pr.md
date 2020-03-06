@@ -1,8 +1,8 @@
 # La Huella Digital de los Municipios en Puerto Rico: un análisis mal hecho
 
-78 municipios. En Puerto Rico estos son los gobiernos que mas afectan el día a día a la ciudadania. Son la primera parada para ayudas durante desastres, emergencias de salud y festividades locales. Los servicios que ofrecen los municipios son vitales, desde el recogido de escombros, hasta el manejo de seguridad.
+78 municipios. Estos son los gobiernos que mas afectan el día a día a la ciudadania. Son la primera parada para ayudas durante desastres, emergencias de salud y festividades locales. Los servicios que ofrecen los municipios son vitales, desde el recogido de escombros, hasta el manejo de seguridad.
 
-Con tanta importancia que estas instituciones tienen, como es que se comunican con los ciudadanos?
+Con tanta importancia que estas instituciones tienen como es que se comunican con los ciudadanos?
 
 En el 2020 y después de mucho intentos de modernización, uno se esperaría que la presencia digital de los municipios este, en lo mínimo, organizada. Que como ciudadano, uno pueda encontrar un lugar donde se pueda acceder información de importancia del lugar en donde se vive. Una pagina de internet, con una dirección fácil de acordarse y la información relevante es lo mas basico que un municipio necesita para crear esta confianza a sus ciudadanos.
 
@@ -53,7 +53,7 @@ Existen entradas en [pr.gov](https://www.pr.gov/Directorios/Pages/DirectoriodeMu
 - Dominios de internet caducados
 - Paginas de internet que no existen
 
-Para que el [directorio de municipios](https://www.pr.gov/Directorios/Pages/DirectoriodeMunicipios.aspx) sea util para ciudadanos buscando ayuda esto se tiene que arreglar..
+Para que el [directorio de municipios](https://www.pr.gov/Directorios/Pages/DirectoriodeMunicipios.aspx) sea util para ciudadanos buscando ayuda esto se tiene que arreglar.
 
 ### Páginas y dominios abandonados
 
@@ -89,30 +89,43 @@ Al igual que los dominios en el internet, cualquiera puede crear una pagina de F
 
 Sin importar la situación, el municipio debe de tener **una estrategia digital unificadora** para el manejo y mantenimiento de todas sus propiedades digitales. ¿Qué debería ser esa estrategia? Esa contestación solo la puede suplir el municipio.
 
-Para nosotros lo principal es mantener la información de los municipios actualizada. Los municipios y el gobierno estatal deben que colaborar en esto. Parte de la estrategia del municipio debe ser el mantener su información actualizada pero necesitan las herramientas para hacerlo. Enviar un correo electrónico con información a actualizar no es suficiente. Sin saber cómo funciona pr.gov, pensamos que lo idóneo sería ofrecer una sección en esta página donde los municipios puedan mantener su información.
+Para nosotros lo principal es mantener la información de los municipios actualizada. Los municipios y el gobierno estatal deben de colaborar en esto. Parte de la estrategia del municipio debe ser el mantener su información actualizada pero necesitan las herramientas para hacerlo. Enviar un correo electrónico con información a actualizar no es suficiente. Sin saber cómo funciona pr.gov, pensamos que lo idóneo sería ofrecer una sección en esta página donde los municipios puedan mantener su información.
 
-Dicho esto, la realidad es que los presupuestos y recursos disponibles para los municipios pueden ser bien limitados. Con esto en mente tenemos estas sugerencias.
+Dicho esto, la realidad es que los presupuestos y recursos disponibles para los municipios pueden ser bien limitados. Con esto en mente intentamos crear un listado de sugerencias que se pueden implementar por su cuenta y en etapas.
 
 #### Para los municipios
 
-- Los municipios deberían tener una estrategia digital
-	- Identificar una persona en el municipio que tenga todo el conocimiento necesario para mantener la información al día.
-	- Tener una estrategia para el manejo de dominios municipales.
-	- Eliminar el uso y mención del dominios expirados en propiedades digitales.
-	- Utilizar un dominio que no caduque que este manejado por alguna rama del gobierno de Puerto Rico.
-		- Un buen ejemplo de esto lo es [https://barranquitas.pr.gov/](https://barranquitas.pr.gov/).
-	- Tener un inventario de sus propiedades digitales que sea accesible al publico.
-	- Consolidar esfuerzos en solo uno o dos propiedades digitales.
-	- No tener propiedades digitales
-		- Aunque esto suene contra producente, nuestra opinion es que no tener una presencia digital es mejor que tener una que confunda a los ciudadanos.
-	- Colaborar con municipios que tengan recursos para compartir.
-		- No existe una razón que los municipios no puedan compartir recursos para ofrecer una mejor experiencia y servicios digitales.
+Primordialmente necesitan una estrategia digital. La misma puede incluir:
+
+- Identificar una persona en el municipio que tenga todo el conocimiento necesario para mantener la información al día.
+- Tener una estrategia para el manejo de dominios municipales.
+- Eliminar el uso y mención del dominios expirados en propiedades digitales.
+- Utilizar un dominio que no caduque que este manejado por alguna rama del gobierno de Puerto Rico.
+	- Un buen ejemplo de esto lo es [https://barranquitas.pr.gov/](https://barranquitas.pr.gov/).
+- Tener un inventario de sus propiedades digitales que sea accesible al publico.
+- Consolidar esfuerzos en solo uno o dos propiedades digitales.
+- No tener propiedades digitales
+	- Aunque esto suene contra producente, nuestra opinion es que no tener una presencia digital es mejor que tener una que confunda a los ciudadanos.
+- Colaborar con municipios que tengan recursos para compartir.
+	- No existe una razón que los municipios no puedan compartir recursos para ofrecer una mejor experiencia y servicios digitales.
+- Proveer una manera de aceptar retroalimentación del ciudadano de una manera anónima.
 
 #### Para el gobierno estatal
 
-Esta es una excelente oportunidad para que el gobierno estatal (PRITS???) tenga un rol de liderazgo y trabaje una estrategia digital para Puerto Rico.
+Esta es una excelente oportunidad para que el gobierno estatal, utilizando a [PRITS](http://www.prits.pr.gov/), tenga un rol de liderazgo y trabaje una estrategia digital para Puerto Rico.
 
 - Tener un sistema de diseño que pueda asegurar la misma experiencia de usuario en varias propiedades digitales.
 	- Un buen ejemplo de esto los es el [US Web Design System](https://designsystem.digital.gov/).
 - Una herramienta en [pr.gov](https://pr.gov) que haga el mantenimiento de la información municipal un proceso sencillo y eficiente.
-- Tener un proceso de validación de data y notificar a los municipios cuando la data no este bien.
+- Tener un proceso de validación de data y notificar a los municipios cuando la data no este correcta.
+- Proveer una manera de aceptar retroalimentación del ciudadano de una manera anónima.
+
+## En Conclusión
+
+El mantener las propiedades digitales de entidades de gobierno es altamente importante. Debería considerarse parte de los servicios esenciales que se le ofrece al ciudadano. 
+
+Los municipios necesitan tener una estrategia para mantener sus propiedades digitales con información actualizada y correcta. Esto crea confianza y mantiene al ciudadano informado en su día a día y en momentos de emergencia. 
+
+Para que esto sea eficiente el gobierno estatal necesita ofrecer herramientas para mantener la información en sus directorios al día. Estas herramientas y procesos de mantenimiento de data necesitan ser accesibles y fáciles de utilizar.
+
+Al final del día la meta debe de ser mantener al ciudadano informado y combatir la desinformación. Con cambios pequeños estamos seguros que esto se puede lograr para el beneficio de todos.
