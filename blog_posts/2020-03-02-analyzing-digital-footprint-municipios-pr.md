@@ -1,10 +1,10 @@
 # La Huella Digital de los Municipios en Puerto Rico: un análisis mal hecho
 
-78 municipios. Estos son los gobiernos que mas afectan el día a día a la ciudadania. Son la primera parada para ayudas durante desastres, emergencias de salud y festividades locales. Los servicios que ofrecen los municipios son vitales, desde el recogido de escombros, hasta el manejo de seguridad.
+78 municipios. En Puerto Rico estos son los gobiernos que mas afectan el día a día a la ciudadania. Son la primera parada para ayudas durante desastres, emergencias de salud y festividades locales. Los servicios que ofrecen los municipios son vitales, desde el recogido de escombros, hasta el manejo de seguridad.
 
-Con tanta importancia que estas instituciones tienen como es que se comunican con los ciudadanos?
+Con tanta importancia que estas instituciones tienen, como es que se comunican con los ciudadanos?
 
-En el 2020 y después de mucho intentos de modernización, uno se esperaría que la presencia digital de los municipios este, en lo mínimo, organizada. Que como ciudadano, uno pueda encontrar un lugar donde se pueda acceder información de importancia del lugar en donde se vive. Una pagina de internet, con una dirección fácil de acordarse y la información relevante es lo único que un municipio necesita para crear esta confianza a sus ciudadanos.
+En el 2020 y después de mucho intentos de modernización, uno se esperaría que la presencia digital de los municipios este, en lo mínimo, organizada. Que como ciudadano, uno pueda encontrar un lugar donde se pueda acceder información de importancia del lugar en donde se vive. Una pagina de internet, con una dirección fácil de acordarse y la información relevante es lo mas basico que un municipio necesita para crear esta confianza a sus ciudadanos.
 
 En el mundo del internet esto se puede lograr de varias maneras. Para entidades de gobierno en EEUU y sus territorios se puede utilizar el sufijo .gov para indicar que es oficial. En el caso de Puerto Rico se puede ver este intento con [pr.gov](https://pr.gov).
 
@@ -16,12 +16,12 @@ El internet es una plataforma donde cualquiera puede comprar un dominio que este
 
 Con todo lo que ha pasado en los pasados años en Puerto Rico, en Code4PR queríamos ver cuál era la huella digital de los municipios. Queríamos ver cuan fácil se nos podia hacer encontrar información relevante de un municipio que pudiese asistir a sus constituyentes.
 
-Se nos ocurrió empezar por el portal de [pr.gov](https://pr.gov). Decidimos esto por varias razones:
+Se nos ocurrió comenzar por el portal de [pr.gov](https://pr.gov). Decidimos esto por varias razones:
 
 1. Es el portal oficial del gobierno de Puerto Rico.
 2. Tiene un [directorio de Municipios de Puerto Rico](https://www.pr.gov/Directorios/Pages/DirectoriodeMunicipios.aspx).
 
-Lo que encontramos fue data sin actualizar desde el 2017 y simplemente errónea.
+Los resultados no fueron los mas alentadores,lo que se encontro fue un sin numero de data sin actualizar desde el 2017 y otra simplemente errónea.
 
 ## El análisis
 
@@ -53,7 +53,7 @@ Existen entradas en [pr.gov](https://www.pr.gov/Directorios/Pages/DirectoriodeMu
 - Dominios de internet caducados
 - Paginas de internet que no existen
 
-Para que el [directorio de municipios](https://www.pr.gov/Directorios/Pages/DirectoriodeMunicipios.aspx) sea util para ciudadanos buscando ayuda esto tiene que arreglarse.
+Para que el [directorio de municipios](https://www.pr.gov/Directorios/Pages/DirectoriodeMunicipios.aspx) sea util para ciudadanos buscando ayuda esto se tiene que arreglar..
 
 ### Páginas y dominios abandonados
 
