@@ -24,6 +24,41 @@ Despues de varios años inactiva, se reactiva la brigada en enero del 2020.
 	- El proyecto tiene que aceptar el codigo de conducta de Code 4 Puerto Rico
 	- Todo trabajo se tiene que hacer publicamente y ser accesible a que quiera accederlo.
 
+## Como unirse a Code 4 Puerto Rico
+
+Visita https://chat.code4puertorico.org, crea una cuenta y accede a los diferentes canales de nuestros proyectos.
+
+Tambien puedes interactuar con nosotros por los diferente repositorios encontrados aqui en GitHub.
+
+## Nuestros Proyectos
+
+Proyectos principales:
+
+- SuministrosPR
+
+    Plataforma para ayudar a comunidades autogestionar sus necesidades.
+
+    - GitHub: https://github.com/code4puertorico/suministropr
+    - Web: https://suministrospr.com
+
+- ParaVotar
+
+    Plataforma educacional enfocada en el proceso de votar en Puerto Rico.
+
+    - GitHub: https://github.com/code4puertorico/paravotar
+    - Web: https://paravotar.org
+
+- ContratosPR
+
+    Herramienta que consume la pagina del contralor de Puerto Rico y incrementa su capacidad de busqueda.
+
+    - GitHub: 
+        - Central: https://github.com/code4puertorico/contratospr
+        - Web: https://github.com/code4puertorico/contratospr-web
+        - API: - https://github.com/code4puertorico/contratospr-api
+    - Web: https://contratospr.com
+    - API: https://api.contratospr.com
+
 ## Cuando se reunen
 
 Code 4 Puerto Rico no tiene local o reunion fisica. Todo se hace remoto atravez de plataformas digitales como GitHub y Slack.
