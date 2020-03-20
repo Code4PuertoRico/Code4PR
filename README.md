@@ -2,6 +2,14 @@
 
 Repositorio central de Code 4 Puerto Rico.
 
+## :rotating_light: Inventario de Recursos referentes a COVID-19 (Coronavirus) :rotating_light:
+
+Queremos empezar a crear un inventario de esfuerzos y recursos referentes a la actual emergencia mundial con COVID-19. Creemos que tener este listado en un lugar centralizado es beneficioso. Para empezar este inventario hemo creado un Google Form para recopilar esta data. 
+
+Estaremos utilizando esta data para crear una pagina donde la comunidad pueda encontrar información que pueda ayudarles en estos timepos.
+
+[Pueden accedre la forma aquí.](https://bit.ly/c4pr-recursos-covid19)
+
 ## Que es Code 4 Puerto Rico
 
 Es un grupo de ciudadanos que colaboran para trabajar temas de caracter civico mediante la implementación de la tecnologia.
