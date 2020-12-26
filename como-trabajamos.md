@@ -5,7 +5,7 @@
 - [Que son iniciativas de Code for Puerto Rico](#que-son-iniciativas-de-code-for-puerto-rico)
 - [Que son iniciativas o proyectos comunitarios](#que-son-iniciativas-o-proyectos-comunitarios)
 
-Code for Puerto Rico intenta trabajar sobre iniciativas y no proyectos. La razón principal para esto está en nuestros valores, _Nos esforzamos por construir productos, no publicar código_. Desde nuestra perspectiva una iniciativa puede tener un sin número de proyectos que la apoyen, que no necesariamente son tecnológicos.
+Code for Puerto Rico intenta trabajar sobre iniciativas y no proyectos. La razón principal para esto está en nuestros valores, _Nos esforzamos por desarrollar aplicaciones y soluciones funcionales, no publicar código_. Desde nuestra perspectiva una iniciativa puede tener un sin número de proyectos que la apoyen, que no necesariamente son tecnológicos.
 
 Pero esto es __Code for Puerto Rico__, por que no van a ser tecnologicos?
 
