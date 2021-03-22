@@ -38,6 +38,8 @@ Visita https://chat.code4puertorico.org, crea una cuenta y accede a los diferent
 
 Tambien puedes interactuar con nosotros por los diferente repositorios encontrados aqui en GitHub.
 
+En Code 4 Puerto Rico nuestra meta es proveer un ambiente donde todas las personas puedan sentirse cómodas, aceptadas y seguras. Te invitamos a que visites nuestro [Código de Conducta](https://github.com/code4puertorico/codeofconduct) y la [Política de Comunicación en Slack](https://github.com/Code4PuertoRico/slackpolicy). Allí encontraras las bases que nos guían a poder lograr dicho propósito en la comunicada.
+
 ## Nuestros Proyectos
 
 Proyectos principales:
