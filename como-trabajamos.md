@@ -39,7 +39,7 @@ Iniciativas de Code for Puerto Rico son aquellas que están manejadas por el equ
 
 Lo que sigue le aplica a todo proyecto de Code for Puerto Rico:
 
-- La plataforma oficial para el almacenamiento de código en GitHub. Todo código generado por una iniciativa o proyecto tendrá que estar en esta plataforma bajo la organización de [Code4PuertoRico](https://github.com/code4puertorico)
+- La plataforma oficial para el almacenamiento de código es GitHub. Todo código generado por una iniciativa o proyecto tendrá que estar en esta plataforma bajo la organización de [Code4PuertoRico](https://github.com/code4puertorico)
 - Se utilizará GitHub issues para manejar tareas y comunicación comunitaria sobre las mismas
  - En el evento de que una persona externa no tenga cuenta de GitHub y no quiera crear una, el equipo debe de proveer una manera para obtener retroalimentación y luego deberá colocarla en un issue. Se debe de mencionar de dónde vino la retroalimentación
 - Todo cambio al código necesita pasar por un pull request y necesita ser aprobado por el equipo.
